@@ -1,4 +1,5 @@
-#Please follow under rules to clone my repo
+#Please following 
+rules to clone my repo
 
 ## Installation:
 
