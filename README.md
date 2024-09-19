@@ -1,4 +1,4 @@
-# Blogiz-Starter-Pack
+#Please follow under rules to clone my repo
 
 ## Installation:
 
